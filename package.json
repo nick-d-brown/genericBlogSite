@@ -1,0 +1,28 @@
+{
+  "name": "genericblogsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nick-d-brown/genericBlogSite.git"
+  },
+  "author": "nick brown",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nick-d-brown/genericBlogSite/issues"
+  },
+  "homepage": "https://github.com/nick-d-brown/genericBlogSite#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "express-sanitizer": "^1.0.4",
+    "method-override": "^2.3.10",
+    "mongoose": "^5.1.3",
+    "npm": "^6.1.0"
+  }
+}
